@@ -13,8 +13,7 @@ body {
   color: #fff;
   position: relative;
   background: transparent;
-  
-}s
+}
 
 body::before {
   content: "";
